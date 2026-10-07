@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hey there 👋 I'm Hareesh
 
-<!--
-**Hareeshgundluru773/Hareeshgundluru773** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Java Full Stack Developer | Fresher
 
-Here are some ideas to get you started:
+I'm a Computer Science graduate passionate about building **scalable and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Skills
+- Backend: Java, Spring Boot, Spring MVC, REST APIs
+- Frontend: HTML, CSS, JavaScript, React.js
+- Database: MySQL, PostgreSQL
+- Tools: Git, GitHub, Maven, Postman
+- Concepts: OOP, Collections, DSA, MVC, SDLC
+
+🚀 Projects
+- Domain-Based Career Roadmap Management System – Full-stack application with Spring Boot, React.js, MySQL and REST APIs.
+- Smart Resume Analyzer – Web application for resume analysis and skill matching.
+
+ Currently improving my Java Full Stack development and problem-solving skills.
+
+ Open to Java Developer, Java Full Stack Developer, and Software Engineer opportunities.
